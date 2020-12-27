@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background:url(bk4.jpg);
+     background-size:cover;
+}
+
+.a{
+   background-color:lawngreen;
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background:url(ik.jpg);
+     background-size:cover;
+}
+.d{
+    background-color: lawngreen;
+    text-align: center;
+}

@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background:url(JK.jpg);
+     background-size:cover;
+}
+
+.a{
+   background-color:black;
+    text-align: center;
+}
+.b{
+    background-color: blanchedalmond;
+    text-align: left;
+}
+.c{
+    background-color: khaki;
+}
+.d{
+    background-color: lawngreen;
+    text-align: center;
+}
+.e{
+    background-color: lightgreen;
+}
+.f{
+    background-color:orangered;
+}
+.g{
+    background-color: olive;
+}
